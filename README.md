@@ -57,13 +57,13 @@ El sistema desarrollado en Laravel para la gestión de elecciones en la UMSS ofr
 ### Clonar el repositorio
 
 ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+git clone https://github.com/tu_usuario/tu_repositorio.git
+cd tu_repositorio
 ```
 ### Intalar dependencias de PHP
 
 ```bash
-    composer install
+composer install
 ```
 > [!IMPORTANT]  
 > Asegúrate de ejecutar `composer install` desde la raíz del proyecto. Si la carpeta `vendor` no se crea, verifica que no haya errores en la instalación de Composer o en el archivo `composer.json`.
@@ -73,7 +73,7 @@ El sistema desarrollado en Laravel para la gestión de elecciones en la UMSS ofr
 Renombra el archivo .env.example a .env y configura tus variables de entorno, especialmente la conexión a la base de datos:
 
 ```bash
-    cp .env.example .env
+cp .env.example .env
 ```
 
 Editar el archivo ´.env´ y agrega la configuración de tu base de datos:
