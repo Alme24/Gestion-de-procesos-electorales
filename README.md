@@ -8,40 +8,40 @@ El sistema desarrollado en Laravel tiene como objetivo principal asistir en las 
 
 El sistema desarrollado en Laravel para la gestión de elecciones en la UMSS ofrece funcionalidades completas y eficientes para asegurar un proceso electoral transparente y organizado. A continuación, se describen las principales características:
 
-#### 🔎 Funcionalidades Principales
+#### Funcionalidades Principales
 
 1. **Inicio**
-* Página de inicio con acceso rápido a todas las funcionalidades.
+    * Página de inicio con acceso rápido a todas las funcionalidades.
 
 2. **Elecciones**
-* Listado de elecciones activas con detalles.
-* Botones para crear nuevas elecciones, añadir votantes y comités electorales.
-* Barra de búsqueda y acciones para cada elección.
+    * Listado de elecciones activas con detalles.
+    * Botones para crear nuevas elecciones, añadir votantes y comités electorales.
+    * Barra de búsqueda y acciones para cada elección.
 
 3. **Formularios de Registro**
-* **Elecciones:** Nombre, motivo, cargo, gestión, tipo de votante, convocatoria (PDF), tipo de elección y descripción.
-* **Votantes:** Elección, nombre, apellidos, código SIS, CI, tipo de votante, carrera, facultad, celular y email.
-* **Comités Electorales:** Elección, nombres, apellidos, fecha de nacimiento, carrera, cargo y tipo de comité.
-* **Frentes:** Nombre del frente, elección asociada, cargo, logo y candidatos.
-* **Mesas:** Número de mesas y elección asociada.
-* **Jurados:** Nombre, apellidos y tipo de jurado.
-* **Comunicados:** Nombre, apellidos y tipo de comunicado.
+    * **Elecciones:** Nombre, motivo, cargo, gestión, tipo de votante, convocatoria (PDF), tipo de elección y descripción.
+    * **Votantes:** Elección, nombre, apellidos, código SIS, CI, tipo de votante, carrera, facultad, celular y email.
+    * **Comités Electorales:** Elección, nombres, apellidos, fecha de nacimiento, carrera, cargo y tipo de comité.
+    * **Frentes:** Nombre del frente, elección asociada, cargo, logo y candidatos.
+    * **Mesas:** Número de mesas y elección asociada.
+    * **Jurados:** Nombre, apellidos y tipo de jurado.
+    * **Comunicados:** Nombre, apellidos y tipo de comunicado.
 
 4. **Boletas y Resultados**
-* Crear boletas con detalles como nombre de la elección, título, fecha, logo y casillas.
-* Registrar resultados de elecciones con nombres de frentes y votos obtenidos.
+    * Crear boletas con detalles como nombre de la elección, título, fecha, logo y casillas.
+    * Registrar resultados de elecciones con nombres de frentes y votos obtenidos.
 
 5. **Actas y Reportes**
-* Crear actas de apertura y cierre.
-* Generar reportes de elecciones activas y descargar backups de la base de datos.
+    * Crear actas de apertura y cierre.
+    * Generar reportes de elecciones activas y descargar backups de la base de datos.
 
 6. **Acceso y Seguridad**
-*  Distinción entre accesos de usuario y administrador.
-*  Registro de acciones en una bitácora.
+    *  Distinción entre accesos de usuario y administrador.
+    *  Registro de acciones en una bitácora.
 
 7. **Historial de Elecciones**
 
-*  Lista de elecciones pasadas con nombre, fecha, cargo y resultados.
+    *  Lista de elecciones pasadas con nombre, fecha, cargo y resultados.
 
 ## 📋 Requisitos
 
